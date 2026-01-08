@@ -73,12 +73,9 @@ This is **NOT** a teaching repository.
 Explanations are minimal by design.
 
 ---
-
 ## Author
 
-**Ravindra**
-
-C++ • Systems Thinking • Algorithmic Problem Solving
+**Ravindra**  
 
 
 
